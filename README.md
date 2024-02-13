@@ -1,2 +1,2 @@
 # wallpaperApp
-get all wallpaperk from pexels api
+get all wallpaper from pexels api
